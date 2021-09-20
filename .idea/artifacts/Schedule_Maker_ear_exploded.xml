@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="Schedule-Maker:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Schedule_Maker_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Schedule-Maker/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="Schedule-Maker:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>
